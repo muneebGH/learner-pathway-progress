@@ -4,24 +4,11 @@ Learner Pathway Progress
 |pypi-badge| |ci-badge| |codecov-badge| |doc-badge| |pyversions-badge|
 |license-badge|
 
-The ``README.rst`` file should start with a brief description of the repository,
-which sets it in the context of other repositories under the ``edx``
-organization. It should make clear where this fits in to the overall edX
-codebase.
 
-A plugin to track learners progress in pathways.
-
-Overview (please modify)
+Overview
 ------------------------
+Learner-pathway-progress is a plugin that is supposed to be installed inside the ``edx-platform`` and integrated in ``lms``, it contains the code to track the progress of learners in learner pathways.
 
-The ``README.rst`` file should then provide an overview of the code in this
-repository, including the main components and useful entry points for starting
-to understand the code in more detail.
-
-Documentation
--------------
-
-(TODO: `Set up documentation <https://openedx.atlassian.net/wiki/spaces/DOC/pages/21627535/Publish+Documentation+on+Read+the+Docs>`_)
 
 Development Workflow
 --------------------
